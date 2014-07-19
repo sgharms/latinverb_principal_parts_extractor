@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "latinverb_principal_parts_extractor"
   spec.version       = Linguistics::Latin::Verb::LatinVerb::PrincipalPartsExtractor::VERSION
   spec.authors       = ["Steven G. Harms"]
-  spec.email         = ["steven@devbootcamp.com"]
+  spec.email         = ["steven.harms@gmail.com"]
   spec.summary       = %q{Class for extracting principal parts from a Latin sumary string}
   spec.homepage      = ""
   spec.license       = "MIT"
